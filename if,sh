@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "lets use the if clause"
+if [[ $1 -eq 4]]
+then 
+echo"you enteres $l"
+echo " end program "
+fi 

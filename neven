@@ -1,0 +1,8 @@
+#!/bin/bash
+function neven {
+n=0
+for elements in $@
+do
+isiteven $elements
+done
+}

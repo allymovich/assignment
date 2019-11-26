@@ -1,0 +1,3 @@
+#!/bin/bash
+echo Demetrius || [[ 6 -eq 7 ]] || echo Helena && echo Hermia || [[ 7 -gt 4 ]]
+
